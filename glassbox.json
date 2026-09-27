@@ -1,0 +1,109 @@
+{
+  "slug": "reproductionclear",
+  "box": 50,
+  "date": "2026-10-08",
+  "title": "ReproductionClear",
+  "question": "How does the reproductive system work?",
+  "hook": "Two small sets of organs, deep in the pelvis, can start a whole new person. See the organs as clean diagrams, watch the brain switch on puberty, run the 28-day cycle as a clock, follow one sperm and one egg become a ball of cells, and grow a baby from a lentil to a watermelon.",
+  "thumbText": "HOW LIFE BEGINS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "reproductive system",
+    "puberty",
+    "menstrual cycle",
+    "periods",
+    "fertilisation",
+    "chromosomes",
+    "pregnancy",
+    "placenta",
+    "human body",
+    "biology",
+    "NCERT",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two sets of organs",
+      "text": "Ovaries store eggs and release about one a month into the fallopian tubes, which lead to the uterus. Testes make about 100 million sperm a day, which mature in the epididymis and travel up the vas deferens. Ovaries and testes are also glands that make hormones."
+    },
+    {
+      "title": "Puberty starts in the brain",
+      "text": "The hypothalamus starts pulsing GnRH, the pituitary answers with LH and FSH, and the ovaries or testes make oestrogen or testosterone. It usually begins between 8 and 13 in girls and 9 and 14 in boys, and early or late in that range is normal."
+    },
+    {
+      "title": "A monthly clock",
+      "text": "A cycle lasts 21 to 35 days. A follicle ripens, an LH surge releases the egg about 14 days before the next period, and progesterone thickens the lining. If no baby starts, the lining is shed as a period: normal, healthy and nothing to be ashamed of."
+    },
+    {
+      "title": "23 + 23 = 46",
+      "text": "In the fallopian tube, one sperm gets through the egg's coat and the coat hardens behind it. The zygote has 46 chromosomes. It divides as it drifts to the uterus, becomes a hollow blastocyst and implants around days 6 to 10. The sperm's X or Y sets the baby's sex."
+    },
+    {
+      "title": "Forty weeks",
+      "text": "From a lentil with a beating heart at week 6 to about 3 to 3.5 kg at week 40. The placenta passes oxygen and food from the mother's blood to the baby's, and waste back, without the two ever mixing. Birth comes as the uterus squeezes and the cervix opens to about 10 cm."
+    },
+    {
+      "title": "Care and respect",
+      "text": "Check-ups keep mothers and babies safe: India's maternal mortality fell from 398 to 88 per 100,000 births between 1997–98 and 2020–22. Infections are treatable and infertility is common and often treatable. Your body belongs to you: always ask, and respect a no."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Gamete",
+      "def": "A sex cell, an egg or a sperm, carrying 23 chromosomes."
+    },
+    {
+      "term": "Ovary",
+      "def": "An almond-sized organ that stores eggs and makes oestrogen and progesterone."
+    },
+    {
+      "term": "Testis",
+      "def": "An organ that makes sperm and testosterone, kept a little cooler than the body."
+    },
+    {
+      "term": "Puberty",
+      "def": "The years when the body matures, started by GnRH from the brain."
+    },
+    {
+      "term": "Menstrual cycle",
+      "def": "The monthly cycle of egg release and lining growth and shedding, usually 21 to 35 days."
+    },
+    {
+      "term": "Ovulation",
+      "def": "The release of an egg, about 14 days before the next period."
+    },
+    {
+      "term": "Fertilisation",
+      "def": "One sperm and one egg joining in the fallopian tube to make a zygote."
+    },
+    {
+      "term": "Placenta",
+      "def": "The organ on the uterus wall where the baby's blood takes oxygen and food from the mother's."
+    },
+    {
+      "term": "Consent",
+      "def": "Freely saying yes. Everyone has the right to say no about their own body."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "reproductionclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 7
+}

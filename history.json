@@ -1,0 +1,985 @@
+{
+  "title": "The history of the reproductive system",
+  "tagline": "From a beating spot in a hen's egg to IVF babies in Oldham and Kolkata: how people learned where life begins.",
+  "intro": "For most of history people could only guess how a new life starts. Microscopes in the 1600s revealed sperm and follicles, and in the 1800s scientists finally found the mammal egg and watched one sperm fertilise it. The 1900s brought chromosomes, hormones, ultrasound and IVF, and public health turned that knowledge into safer births, including in India, where far fewer mothers now die in childbirth.",
+  "eras": [
+    {
+      "id": "ideas",
+      "name": "Big ideas, few tools",
+      "from": -350,
+      "to": 1660,
+      "color": "#c49bff",
+      "summary": "Thinkers open hens' eggs, name the tubes and argue that every animal comes from an egg, without being able to see one."
+    },
+    {
+      "id": "lens",
+      "name": "Under the microscope",
+      "from": 1660,
+      "to": 1830,
+      "color": "#ffd166",
+      "summary": "Microscopes reveal follicles and sperm, a wrong idea about tiny people is overturned, and the mammal egg is finally found."
+    },
+    {
+      "id": "cells",
+      "name": "Cells, chromosomes and hormones",
+      "from": 1870,
+      "to": 1975,
+      "color": "#6ee7a8",
+      "summary": "Scientists watch fertilisation happen, count chromosomes, find the X and Y, and discover the hormones that run the cycle and puberty."
+    },
+    {
+      "id": "care",
+      "name": "Safer births",
+      "from": 1845,
+      "to": 1970,
+      "color": "#8ef0ff",
+      "summary": "Handwashing, trained doctors, ultrasound and photographs make pregnancy and birth safer and better understood."
+    },
+    {
+      "id": "ivf",
+      "name": "Help to have a baby",
+      "from": 1978,
+      "to": 1995,
+      "color": "#ff9fc0",
+      "summary": "IVF babies are born in England and India within months of each other, and new methods help more couples."
+    },
+    {
+      "id": "india",
+      "name": "India's mothers and daughters",
+      "from": 1994,
+      "to": 2024,
+      "color": "#ff8a5c",
+      "summary": "Laws protect girls, schemes bring births into hospitals, and maternal deaths fall by more than three-quarters."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "c. 350 BCE",
+      "era": "ideas",
+      "art": "scroll",
+      "title": "Watching a chick grow inside an egg",
+      "who": "Aristotle",
+      "where": "Lesbos and Athens, Greece",
+      "country": "Greece",
+      "text": "Aristotle opened hens' eggs day after day and wrote down what he saw. By about the third day a tiny red spot appeared that beat like a heart. He argued that the body's parts form one after another, not all at once.",
+      "why": "It was the first careful, step-by-step record of how an embryo develops.",
+      "box": "pregnancy",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1561,
+      "date": "1561",
+      "era": "ideas",
+      "art": "word",
+      "title": "The tubes get their name",
+      "who": "Gabriele Falloppio",
+      "where": "Padua, Italy",
+      "country": "Italy",
+      "text": "The Italian anatomist Gabriele Falloppio described the two slender tubes that run from the uterus towards the ovaries, with their fringed, trumpet-like ends. His book Observationes Anatomicae was printed in Venice in 1561.",
+      "why": "We still call them fallopian tubes, although nobody then knew that eggs travel along them.",
+      "box": "anatomy",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1651,
+      "date": "1651",
+      "era": "ideas",
+      "art": "scroll",
+      "title": "\"Everything from an egg\"",
+      "who": "William Harvey",
+      "where": "London, England",
+      "country": "England",
+      "text": "William Harvey, famous for showing how blood circulates, studied chicks and deer embryos. In his book On the Generation of Animals he argued that all animals, including humans, begin from some kind of egg. The phrase ex ovo omnia, everything from an egg, became linked to his work.",
+      "why": "It pointed scientists towards the egg long before anyone had seen a mammal's egg.",
+      "box": "fertilisation",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1672,
+      "date": "1672",
+      "era": "lens",
+      "art": "gland",
+      "key": true,
+      "title": "Bubbles in the ovary",
+      "who": "Regnier de Graaf",
+      "where": "Delft, Netherlands",
+      "country": "Netherlands",
+      "text": "The Dutch doctor Regnier de Graaf studied the ovaries of rabbits and other mammals and described small fluid-filled bubbles on their surface. He thought each bubble was an egg. In fact each one holds a far smaller egg inside. We still call a ripe one a Graafian follicle.",
+      "why": "He found the follicle, the bubble that ripens and releases an egg every month.",
+      "box": "cycle",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1677,
+      "date": "November 1677",
+      "era": "lens",
+      "art": "lens",
+      "key": true,
+      "title": "Sperm seen for the first time",
+      "who": "Antonie van Leeuwenhoek (with Johan Ham)",
+      "where": "Delft, Netherlands",
+      "country": "Netherlands",
+      "text": "Using his own tiny, powerful single-lens microscopes, the cloth merchant Antonie van Leeuwenhoek saw thousands of swimming cells with long tails in a sample of semen. A medical student, Johan Ham, had first pointed them out to him. He described them in a letter to the Royal Society in London.",
+      "why": "For the first time, people could see the cell that carries the father's half of a new life.",
+      "box": "fertilisation",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1694,
+      "date": "1694",
+      "era": "lens",
+      "art": "person",
+      "title": "A tiny person in the sperm?",
+      "who": "Nicolaas Hartsoeker",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The Dutch microscope maker Nicolaas Hartsoeker drew a tiny curled-up person, a homunculus, inside the head of a sperm. He did not claim to have seen it; he drew it to show an idea many people then held, that a miniature person was already formed and only had to grow.",
+      "why": "It is a famous example of a wrong idea that microscopes and careful experiments later overturned.",
+      "box": "fertilisation",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1759,
+      "date": "1759",
+      "era": "lens",
+      "art": "cell",
+      "title": "Bodies build themselves step by step",
+      "who": "Caspar Friedrich Wolff",
+      "where": "Halle, Prussia (Germany)",
+      "country": "Germany",
+      "text": "In his thesis Theoria Generationis, the German scientist Caspar Friedrich Wolff showed from chick embryos that organs such as the gut form from simple, unshaped layers. Nothing was ready-made: the body builds itself in stages, an idea called epigenesis.",
+      "why": "It replaced the tiny-person idea with the picture of development that biology still uses.",
+      "box": "pregnancy",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1780,
+      "date": "1780s",
+      "era": "lens",
+      "art": "flask",
+      "title": "Proof that sperm are needed",
+      "who": "Lazzaro Spallanzani",
+      "where": "Pavia, Italy",
+      "country": "Italy",
+      "text": "The Italian priest and scientist Lazzaro Spallanzani showed that frog eggs only develop after they touch sperm-containing fluid. When he filtered the sperm out, the fluid no longer worked. He also carried out the first successful artificial insemination, in a dog.",
+      "why": "Experiments, not just looking, showed that both the egg and the sperm are needed.",
+      "box": "fertilisation",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1827,
+      "date": "1827",
+      "era": "lens",
+      "art": "lens",
+      "key": true,
+      "title": "The mammal egg is found",
+      "who": "Karl Ernst von Baer",
+      "where": "Königsberg, Prussia (now Kaliningrad, Russia)",
+      "country": "Prussia",
+      "text": "Karl Ernst von Baer opened a follicle from a dog's ovary and found a tiny yellowish speck floating inside it. It was the real egg, far smaller than de Graaf's bubble. He published the discovery in a short Latin book.",
+      "why": "It settled a 150-year-old question: mammals, including humans, do begin from a single egg cell.",
+      "box": "anatomy",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1847,
+      "date": "May 1847",
+      "era": "care",
+      "art": "waterdrop",
+      "title": "Clean hands save mothers",
+      "who": "Ignaz Semmelweis",
+      "where": "Vienna General Hospital, Austria",
+      "country": "Austria",
+      "text": "Ignaz Semmelweis noticed that far more mothers died of childbed fever on the ward run by doctors, who came straight from dissections, than on the ward run by midwives. He made staff wash their hands in chlorinated lime, and deaths on his ward dropped sharply.",
+      "why": "Handwashing became one of the simplest and most powerful ways to keep mothers and babies safe.",
+      "box": "health",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1876,
+      "date": "1876",
+      "era": "cells",
+      "art": "cell",
+      "key": true,
+      "title": "Watching one sperm enter an egg",
+      "who": "Oscar Hertwig",
+      "where": "Mediterranean coast (sea urchin eggs); based at Jena, Germany",
+      "country": "Germany",
+      "text": "Oscar Hertwig studied the clear eggs of a Mediterranean sea urchin, which are easy to see through. He mixed eggs and sperm and watched a single sperm enter an egg. About ten minutes later the sperm's nucleus had travelled to meet the egg's nucleus and joined with it.",
+      "why": "It showed that fertilisation is the joining of one sperm and one egg, nucleus with nucleus.",
+      "box": "fertilisation",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1883,
+      "date": "1883",
+      "era": "cells",
+      "art": "cell",
+      "title": "Half the chromosomes from each parent",
+      "who": "Edouard van Beneden",
+      "where": "Liège, Belgium",
+      "country": "Belgium",
+      "text": "Working with the eggs of a roundworm that has very few chromosomes, Edouard van Beneden showed that the egg and the sperm each bring the same number of chromosomes, half of what the body's cells carry, and that they come together at fertilisation.",
+      "why": "This is the idea behind 23 + 23 = 46 in humans.",
+      "box": "fertilisation",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1886,
+      "date": "11 March 1886",
+      "era": "care",
+      "art": "scroll",
+      "title": "India's first woman doctor of Western medicine",
+      "who": "Anandibai Joshi",
+      "where": "Philadelphia, USA",
+      "country": "India",
+      "text": "Anandibai Joshi lost her baby son days after birth, and resolved to study medicine. She sailed to the United States and graduated from the Woman's Medical College of Pennsylvania with a thesis on obstetrics among Hindus.",
+      "why": "She showed Indian women could become doctors, and she chose care for mothers and babies as her subject.",
+      "box": "health",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "1905",
+      "era": "cells",
+      "art": "cell",
+      "key": true,
+      "title": "The X and Y chromosomes",
+      "who": "Nettie Stevens",
+      "where": "Bryn Mawr College, Pennsylvania, USA",
+      "country": "USA",
+      "text": "Studying mealworm beetles, Nettie Stevens found that females had pairs of large chromosomes, while males had one large and one small one. She concluded that the sperm's chromosome decides whether the young is female or male. Edmund Wilson reached a similar conclusion the same year.",
+      "why": "It explained why the sperm, carrying an X or a Y, sets a baby's sex.",
+      "box": "fertilisation",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923",
+      "era": "cells",
+      "art": "gland",
+      "title": "The ovary's hormone",
+      "who": "Edgar Allen and Edward Doisy",
+      "where": "St Louis, USA",
+      "country": "USA",
+      "text": "Edgar Allen and Edward Doisy extracted a substance from pig ovary follicles that made the lining of the uterus grow and brought animals into their breeding cycle. It was oestrogen. Doisy later purified it, and progesterone was found a few years afterwards.",
+      "why": "It showed that the menstrual cycle is run by hormones from the ovary.",
+      "box": "cycle",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956 (observed December 1955)",
+      "era": "cells",
+      "art": "cell",
+      "key": true,
+      "title": "Humans have 46 chromosomes",
+      "who": "Joe Hin Tjio and Albert Levan",
+      "where": "Lund, Sweden",
+      "country": "Sweden",
+      "text": "For thirty years textbooks said humans had 48 chromosomes. Using better ways to spread cells out on a slide, Joe Hin Tjio counted 46 again and again, and he and Albert Levan published the result.",
+      "why": "It fixed the number at the heart of this box: 23 from each parent, 46 in all.",
+      "box": "fertilisation",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "7 June 1958",
+      "era": "care",
+      "art": "soundwave",
+      "key": true,
+      "title": "Seeing the baby with sound",
+      "who": "Ian Donald, John MacVicar and Tom Brown",
+      "where": "Glasgow, Scotland",
+      "country": "Scotland",
+      "text": "A Glasgow obstetrician, Ian Donald, worked with a doctor and an engineer to adapt an ultrasound machine used for finding cracks in metal. Their paper in The Lancet showed pictures of the inside of the belly made with sound echoes. Soon ultrasound could show a growing baby safely, without X-rays.",
+      "why": "Ultrasound scans became a routine, safe way to check a baby's growth.",
+      "box": "pregnancy",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "30 April 1965",
+      "era": "care",
+      "art": "boxcamera",
+      "title": "Life before birth on a magazine cover",
+      "who": "Lennart Nilsson",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "The Swedish photographer Lennart Nilsson spent years taking pictures of human embryos and fetuses with special cameras and lenses. Life magazine printed them as Drama of Life Before Birth, and millions of copies sold within days.",
+      "why": "For many people it was the first time they saw how a baby develops.",
+      "box": "pregnancy",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1971",
+      "era": "cells",
+      "art": "brain",
+      "title": "The brain's 'start' hormone",
+      "who": "Andrew Schally and Roger Guillemin (separate teams)",
+      "where": "New Orleans and La Jolla, USA",
+      "country": "USA",
+      "text": "Working with extracts from hundreds of thousands of pig and sheep brains, Andrew Schally's team worked out the structure of GnRH, the hypothalamus hormone that tells the pituitary to release LH and FSH. Roger Guillemin's team confirmed it. They shared the 1977 Nobel Prize with Rosalyn Yalow.",
+      "why": "It explained how the brain switches on puberty and runs the menstrual cycle.",
+      "box": "puberty",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "25 July 1978",
+      "era": "ivf",
+      "art": "flask",
+      "key": true,
+      "title": "Louise Brown, the first IVF baby",
+      "who": "Patrick Steptoe and Robert Edwards (with Jean Purdy)",
+      "where": "Oldham, England",
+      "country": "England",
+      "text": "After years of work, a gynaecologist and a scientist joined an egg and sperm in a lab dish and placed the early embryo in the mother's uterus. Louise Brown was born healthy. Robert Edwards received the Nobel Prize in 2010.",
+      "why": "It gave hope to millions of people with infertility.",
+      "box": "health",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "3 October 1978",
+      "era": "ivf",
+      "art": "flask",
+      "key": true,
+      "title": "Durga, India's first IVF baby",
+      "who": "Dr Subhas Mukhopadhyay (with Sunit Mukherji and Saroj Kanti Bhattacharya)",
+      "where": "Kolkata, India",
+      "country": "India",
+      "text": "Just 70 days after Louise Brown, a baby girl named Durga, later known as Kanupriya Agarwal, was born in Kolkata. Dr Subhas Mukhopadhyay and his colleagues had used their own methods and simple equipment. A government committee refused to believe him, and he died in 1981. Years later, experts reviewed his notes and recognised his work.",
+      "why": "India was only the second country with an IVF baby, and Mukhopadhyay is now honoured as a pioneer.",
+      "box": "health",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "6 August 1986",
+      "era": "ivf",
+      "art": "flask",
+      "title": "Harsha, India's first documented IVF baby",
+      "who": "Dr Indira Hinduja, with T. C. Anand Kumar's ICMR team",
+      "where": "Mumbai, India",
+      "country": "India",
+      "text": "A baby boy named Harsha was born at KEM Hospital in Mumbai after IVF by Dr Indira Hinduja and a team from the Indian Council of Medical Research's Institute for Research in Reproduction.",
+      "why": "It started IVF as a medical service in India, which now has thousands of fertility clinics.",
+      "box": "health",
+      "sources": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "July 1992",
+      "era": "ivf",
+      "art": "cell",
+      "title": "One sperm, injected",
+      "who": "Gianpiero Palermo and colleagues",
+      "where": "Brussels, Belgium",
+      "country": "Belgium",
+      "text": "Doctors in Brussels reported the first pregnancies after injecting a single sperm directly into an egg with a very fine glass needle. The method is called ICSI.",
+      "why": "It helped many couples where the male partner has very few sperm.",
+      "box": "health",
+      "sources": [
+        40
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "20 September 1994",
+      "era": "india",
+      "art": "scales",
+      "title": "A law against sex selection",
+      "who": "Parliament of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India passed the Pre-Natal Diagnostic Techniques Act, later renamed the PCPNDT Act. It bans using scans or tests to find out or choose the sex of a baby before birth.",
+      "why": "It protects girls, because the sperm, not anyone's choice, decides a baby's sex.",
+      "box": "fertilisation",
+      "sources": [
+        41
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "12 April 2005",
+      "era": "india",
+      "art": "building",
+      "title": "Help to give birth safely",
+      "who": "Janani Suraksha Yojana, National Rural Health Mission",
+      "where": "India",
+      "country": "India",
+      "text": "The Government of India launched Janani Suraksha Yojana (JSY), which gives cash help to poorer mothers who give birth in a hospital or health centre, supported by community health workers called ASHAs.",
+      "why": "Births in health facilities rose steeply, to 88.6% by 2019–21.",
+      "box": "health",
+      "sources": [
+        42,
+        43,
+        49
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016",
+      "era": "india",
+      "art": "building",
+      "title": "A free check-up on the 9th of every month",
+      "who": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)",
+      "where": "India",
+      "country": "India",
+      "text": "The Ministry of Health and Family Welfare launched PMSMA, which offers every pregnant woman in her second or third trimester a free check-up by a doctor on the 9th day of every month at government health centres.",
+      "why": "Regular check-ups catch problems like high blood pressure and anaemia before they become dangerous.",
+      "box": "health",
+      "sources": [
+        44
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024 (for 2020–22)",
+      "era": "india",
+      "art": "heart",
+      "key": true,
+      "title": "India's maternal deaths fall below 100",
+      "who": "Sample Registration System, Registrar General of India",
+      "where": "India",
+      "country": "India",
+      "text": "The Sample Registration System, which tracks births and deaths in a large national sample, reported a maternal mortality ratio of 88 deaths per 100,000 live births for 2020–22. In 1997–98 it had been 398.",
+      "why": "It is a fall of more than three-quarters in about 25 years, though some states still have far higher rates.",
+      "box": "health",
+      "sources": [
+        45,
+        46,
+        47
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Step-by-step record of an embryo",
+      "value": "c. 350 BCE",
+      "who": "Aristotle, Greece"
+    },
+    {
+      "label": "Sperm seen",
+      "value": "1677",
+      "who": "Antonie van Leeuwenhoek, Netherlands"
+    },
+    {
+      "label": "Mammal egg found",
+      "value": "1827",
+      "who": "Karl Ernst von Baer, Prussia"
+    },
+    {
+      "label": "Fertilisation watched",
+      "value": "1875–76",
+      "who": "Oscar Hertwig, sea urchin eggs"
+    },
+    {
+      "label": "Sex chromosomes described",
+      "value": "1905",
+      "who": "Nettie Stevens, USA"
+    },
+    {
+      "label": "Human chromosome number: 46",
+      "value": "1956",
+      "who": "Joe Hin Tjio and Albert Levan, Sweden"
+    },
+    {
+      "label": "Ultrasound in obstetrics",
+      "value": "1958",
+      "who": "Ian Donald, Glasgow"
+    },
+    {
+      "label": "First IVF baby",
+      "value": "25 July 1978",
+      "who": "Louise Brown, England"
+    },
+    {
+      "label": "India's first IVF baby",
+      "value": "3 October 1978",
+      "who": "Durga (Kanupriya Agarwal), Kolkata; Dr Subhas Mukhopadhyay"
+    }
+  ],
+  "people": [
+    {
+      "name": "Regnier de Graaf",
+      "life": "1641 – 1673",
+      "role": "Physician and anatomist",
+      "from": "Netherlands",
+      "note": "Described the ovarian follicle that still carries his name."
+    },
+    {
+      "name": "Antonie van Leeuwenhoek",
+      "life": "1632 – 1723",
+      "role": "Microscopist",
+      "from": "Netherlands",
+      "note": "Built his own microscopes and was the first to describe sperm cells."
+    },
+    {
+      "name": "Karl Ernst von Baer",
+      "life": "1792 – 1876",
+      "role": "Biologist",
+      "from": "Estonia (then Russian Empire), worked in Prussia",
+      "note": "Found the mammalian egg and helped found embryology."
+    },
+    {
+      "name": "Ignaz Semmelweis",
+      "life": "1818 – 1865",
+      "role": "Obstetrician",
+      "from": "Hungary",
+      "note": "Showed that handwashing prevents deadly infections after childbirth."
+    },
+    {
+      "name": "Oscar Hertwig",
+      "life": "1849 – 1922",
+      "role": "Zoologist",
+      "from": "Germany",
+      "note": "First to watch a sperm and egg nucleus join."
+    },
+    {
+      "name": "Anandibai Joshi",
+      "life": "1865 – 1887",
+      "role": "Physician",
+      "from": "India",
+      "note": "India's first woman doctor of Western medicine; wrote her thesis on obstetrics."
+    },
+    {
+      "name": "Nettie Stevens",
+      "life": "1861 – 1912",
+      "role": "Geneticist",
+      "from": "USA",
+      "note": "Showed that X and Y chromosomes decide sex."
+    },
+    {
+      "name": "Joe Hin Tjio",
+      "life": "1919 – 2001",
+      "role": "Cytogeneticist",
+      "from": "Indonesia, worked in Sweden and the USA",
+      "note": "Counted the human chromosomes correctly: 46."
+    },
+    {
+      "name": "Ian Donald",
+      "life": "1910 – 1987",
+      "role": "Obstetrician",
+      "from": "Scotland",
+      "note": "Brought ultrasound into pregnancy care."
+    },
+    {
+      "name": "Robert Edwards",
+      "life": "1925 – 2013",
+      "role": "Physiologist",
+      "from": "England",
+      "note": "Developed IVF with Patrick Steptoe and Jean Purdy; Nobel Prize 2010."
+    },
+    {
+      "name": "Subhas Mukhopadhyay",
+      "life": "1931 – 1981",
+      "role": "Physician and scientist",
+      "from": "India",
+      "note": "Led the team behind Durga, India's first IVF baby, in 1978."
+    },
+    {
+      "name": "Indira Hinduja",
+      "life": "born 1946",
+      "role": "Gynaecologist",
+      "from": "India",
+      "note": "Delivered Harsha, India's first scientifically documented IVF baby, in 1986."
+    }
+  ],
+  "series": [
+    {
+      "id": "mmr",
+      "title": "Mothers dying in childbirth in India",
+      "unit": "deaths per 100,000 live births",
+      "log": false,
+      "after": "india",
+      "caption": "India's maternal mortality ratio from the Sample Registration System, plotted at the middle year of each period. It fell from 398 in 1997–98 to 88 in 2020–22.",
+      "points": [
+        {
+          "year": 1998,
+          "value": 398,
+          "label": "1997–98: 398"
+        },
+        {
+          "year": 2005,
+          "value": 254,
+          "label": "2004–06: 254"
+        },
+        {
+          "year": 2008,
+          "value": 212,
+          "label": "2007–09: 212"
+        },
+        {
+          "year": 2011,
+          "value": 178,
+          "label": "2010–12: 178"
+        },
+        {
+          "year": 2012,
+          "value": 167,
+          "label": "2011–13: 167"
+        },
+        {
+          "year": 2015,
+          "value": 130,
+          "label": "2014–16: 130"
+        },
+        {
+          "year": 2016,
+          "value": 122,
+          "label": "2015–17: 122"
+        },
+        {
+          "year": 2017,
+          "value": 113,
+          "label": "2016–18: 113"
+        },
+        {
+          "year": 2019,
+          "value": 97,
+          "label": "2018–20: 97"
+        },
+        {
+          "year": 2020,
+          "value": 93,
+          "label": "2019–21: 93"
+        },
+        {
+          "year": 2021,
+          "value": 88,
+          "label": "2020–22: 88"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The human egg, about 0.1 mm across, is the largest cell in the body and only just visible without a microscope.",
+    "A girl is born with about 1 to 2 million immature eggs, but only about 400 to 500 are ever released.",
+    "For about 30 years, textbooks wrongly said humans have 48 chromosomes.",
+    "Durga, India's first IVF baby, was born just 70 days after Louise Brown, the world's first.",
+    "In 2019–21, 77% of young women in India used a hygienic method during their periods, up from 58% in 2015–16."
+  ],
+  "sources": [
+    {
+      "title": "History of Animals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Animals"
+    },
+    {
+      "title": "Aristotle's biology",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/aristotle-biology/"
+    },
+    {
+      "title": "Gabriele Falloppio",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gabriele_Falloppio"
+    },
+    {
+      "title": "Fallopian tube",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fallopian_tube"
+    },
+    {
+      "title": "William Harvey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Harvey"
+    },
+    {
+      "title": "Preformationism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Preformationism"
+    },
+    {
+      "title": "Regnier de Graaf",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Regnier_de_Graaf"
+    },
+    {
+      "title": "Regnier de Graaf",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Regnier-de-Graaf"
+    },
+    {
+      "title": "Antonie van Leeuwenhoek",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek"
+    },
+    {
+      "title": "Sperm (history of discovery)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sperm"
+    },
+    {
+      "title": "Nicolaas Hartsoeker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicolaas_Hartsoeker"
+    },
+    {
+      "title": "Homunculus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Homunculus"
+    },
+    {
+      "title": "Caspar Friedrich Wolff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caspar_Friedrich_Wolff"
+    },
+    {
+      "title": "Epigenesis (biology)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Epigenesis_(biology)"
+    },
+    {
+      "title": "Lazzaro Spallanzani",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lazzaro_Spallanzani"
+    },
+    {
+      "title": "Karl Ernst von Baer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karl_Ernst_von_Baer"
+    },
+    {
+      "title": "Karl Ernst von Baer",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Karl-Ernst-Ritter-von-Baer"
+    },
+    {
+      "title": "Ignaz Semmelweis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+    },
+    {
+      "title": "Ignaz Semmelweis",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ignaz-Semmelweis"
+    },
+    {
+      "title": "Oscar Hertwig",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oscar_Hertwig"
+    },
+    {
+      "title": "Oscar Hertwig, Hermann Fol and echinoderms",
+      "publisher": "EMBRC (European Marine Biological Resource Centre)",
+      "url": "https://www.embrc.eu/newsroom/news/oscar-hertwig-hermann-fol-and-echinoderms-because-children-do-not-travel-beaks-storks"
+    },
+    {
+      "title": "Edouard Van Beneden",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edouard_Van_Beneden"
+    },
+    {
+      "title": "Anandi Gopal Joshi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anandi_Gopal_Joshi"
+    },
+    {
+      "title": "Nettie Stevens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nettie_Stevens"
+    },
+    {
+      "title": "Nettie Stevens: a discoverer of sex chromosomes",
+      "publisher": "Nature Education (Scitable)",
+      "url": "https://www.nature.com/scitable/topicpage/nettie-stevens-a-discoverer-of-sex-chromosomes-6580266/"
+    },
+    {
+      "title": "Estrogen (history)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Estrogen"
+    },
+    {
+      "title": "Edward Adelbert Doisy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edward_Adelbert_Doisy"
+    },
+    {
+      "title": "Joe Hin Tjio",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joe_Hin_Tjio"
+    },
+    {
+      "title": "Human chromosome number",
+      "publisher": "Embryo Project Encyclopedia, Arizona State University",
+      "url": "https://embryo.asu.edu/pages/joe-hin-tjio-and-albert-levans-1956-research-human-chromosome-number"
+    },
+    {
+      "title": "Ian Donald",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ian_Donald"
+    },
+    {
+      "title": "History of ultrasound in obstetrics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Obstetric_ultrasonography"
+    },
+    {
+      "title": "Lennart Nilsson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lennart_Nilsson"
+    },
+    {
+      "title": "Andrew V. Schally",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Schally"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1977",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1977/summary/"
+    },
+    {
+      "title": "Louise Brown",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louise_Brown"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 2010",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/2010/summary/"
+    },
+    {
+      "title": "Subhash Mukhopadhyay (physician)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Subhash_Mukhopadhyay_(physician)"
+    },
+    {
+      "title": "Dr. Subhas Mukhopadhyay (1931–1981): a pioneer in the field of reproductive medicine",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11452318/"
+    },
+    {
+      "title": "Indira Hinduja",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indira_Hinduja"
+    },
+    {
+      "title": "T. C. Anand Kumar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/T._C._Anand_Kumar"
+    },
+    {
+      "title": "Intracytoplasmic sperm injection",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intracytoplasmic_sperm_injection"
+    },
+    {
+      "title": "Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pre-Conception_and_Pre-Natal_Diagnostic_Techniques_Act,_1994"
+    },
+    {
+      "title": "Janani Suraksha Yojana",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Janani_Suraksha_Yojana"
+    },
+    {
+      "title": "Janani Suraksha Yojana",
+      "publisher": "National Health Mission, Government of India",
+      "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841&lid=309"
+    },
+    {
+      "title": "Pradhan Mantri Surakshit Matritva Abhiyan",
+      "publisher": "Ministry of Health and Family Welfare, Government of India",
+      "url": "https://pmsma.mohfw.gov.in/about-scheme/"
+    },
+    {
+      "title": "Maternal mortality in India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maternal_mortality_in_India"
+    },
+    {
+      "title": "SRS Special Bulletin on Maternal Mortality in India 2020–22",
+      "publisher": "Office of the Registrar General, India",
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/45569"
+    },
+    {
+      "title": "Maternal mortality in India",
+      "publisher": "Data For India",
+      "url": "https://www.dataforindia.com/maternal-mortality/"
+    },
+    {
+      "title": "1 in 6 people globally affected by infertility",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/04-04-2023-1-in-6-people-globally-affected-by-infertility"
+    },
+    {
+      "title": "National Family Health Survey (NFHS-5), 2019–21: India fact sheet",
+      "publisher": "International Institute for Population Sciences",
+      "url": "https://rchiips.org/nfhs/factsheet_NFHS-5.shtml"
+    },
+    {
+      "title": "About 50 per cent of women aged 15–24 still use cloth for menstrual protection: NFHS-5",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/india/about-50-per-cent-of-women-aged-15-24-years-still-use-cloth-for-menstrual-protection-nfhs-5/951362/"
+    }
+  ]
+}
